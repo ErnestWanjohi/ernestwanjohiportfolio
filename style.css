@@ -16,7 +16,7 @@ body{
     height: 100vh;
     background-attachment: fixed;/*parallax efect*/
     background-repeat: repeat;/**/
-    background-image: url("HTML_RENEWAL/alchemyrefiner_alchemymagic_0_04893934-cae7-478d-8296-5937447e8888_0.jpg");
+    background-image: url("alchemyrefiner_alchemymagic_0_04893934-cae7-478d-8296-5937447e8888_0.jpg");
     background-size: cover;
     background-position: center;
 }
